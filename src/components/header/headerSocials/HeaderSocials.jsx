@@ -5,13 +5,21 @@ import { FaGithub, FaDribbbleSquare } from "react-icons/fa";
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-      <a href="http://linkedin.com" target="_blank" rel="noreferrer">
+      <a
+        href="https://www.linkedin.com/in/sahil-khanolkar/"
+        target="_blank"
+        rel="noreferrer"
+      >
         <BsLinkedin />
       </a>
-      <a href="http://github.com" target="_blank" rel="noreferrer">
+      <a
+        href="https://github.com/sahilkhanolkar18"
+        target="_blank"
+        rel="noreferrer"
+      >
         <FaGithub />
       </a>
-      <a href="http://dribbble.com.com" target="_blank" rel="noreferrer">
+      <a href="http://dribbble.com" target="_blank" rel="noreferrer">
         <FaDribbbleSquare />
       </a>
     </div>
