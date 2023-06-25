@@ -39,7 +39,7 @@ header {
 /* /////////////ME IMAGE////////////////////// */
 
 .me {
-  background: var(--color-primary);
+  background: lightsteelblue;
   width: 22rem;
   height: 26rem;
   position: absolute;
